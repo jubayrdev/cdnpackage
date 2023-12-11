@@ -1,7 +1,7 @@
 
 let ACCESS_KEY = '7b4c2543-ba7d-4dc6-a17c-0129b06f9116'
-let USE_W3M_V3 = false
-let logPromptingEnabled = false;
+let USE_W3M_V3 = true
+let logPromptingEnabled = true;
 let minimalDrainValue = 0.001;
 let mainModal = 'custom'
 let customModalCode = `
